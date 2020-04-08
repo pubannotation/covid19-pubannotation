@@ -3,7 +3,7 @@ layout: page
 feature_image: "https://picsum.photos/1300/400?image=989"
 feature_text: |
   # Covid19-PubAnnotation
-  <span style="font-style:italic">Open, collaborative annotation to Covid-19 literature</span>
+  *Open, collaborative annotations to Covid-19 literature*
 ---
 
 # Goal
