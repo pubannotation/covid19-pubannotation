@@ -20,27 +20,28 @@ PubAnnotation is an open repository of annotations of biomedical literature whos
 
 ### Individual vs. Aggregated annotations
 
-The following example demonstrates the benefit of aggregating various annotations over Covid-19 literature:
+The following example demonstrates the benefit of aggregating various annotations over Covid-19 literature:<br/>
+<span style="color:#aa0000; font-style:italic; font-size:medium">(If you cannot see the examples below, please re-open the page using HTTP, not HTTPS.)</span>
 
 * Annotation using [MONDO](https://mondo.monarchinitiative.org/)
-<div class="textae-editor" style="font-size:x-small" config="http://textae-configs.pubannotation.org/configs/COVID19-annotation.json"
-target="http://pubannotation.org/docs/sourcedb/CORD-19/sourceid/f820e5c342b0e3ce1af0905b69ebea927865a809/spans/2850-3461/annotations.json?projects=CORD-19-sample-MONDO"></div>
+<div class="textae-editor" style="font-size:x-small" config="https://textae-configs.pubannotation.org/configs/COVID19-annotation.json"
+target="https://pubannotation.org/docs/sourcedb/CORD-19/sourceid/f820e5c342b0e3ce1af0905b69ebea927865a809/spans/2850-3461/annotations.json?projects=CORD-19-sample-MONDO"></div>
 
 * Annotation using [MONDO](https://mondo.monarchinitiative.org/) + [HP](https://hpo.jax.org/)
-<div class="textae-editor" style="font-size:x-small" config="http://textae-configs.pubannotation.org/configs/COVID19-annotation.json"
-target="http://pubannotation.org/docs/sourcedb/CORD-19/sourceid/f820e5c342b0e3ce1af0905b69ebea927865a809/spans/2850-3461/annotations.json?projects=CORD-19-sample-MONDO,CORD-19-sample-HP"></div>
+<div class="textae-editor" style="font-size:x-small" config="https://textae-configs.pubannotation.org/configs/COVID19-annotation.json"
+target="https://pubannotation.org/docs/sourcedb/CORD-19/sourceid/f820e5c342b0e3ce1af0905b69ebea927865a809/spans/2850-3461/annotations.json?projects=CORD-19-sample-MONDO,CORD-19-sample-HP"></div>
 
 * Annotation using [MONDO](https://mondo.monarchinitiative.org/) + [HP](https://hpo.jax.org/) + [UBERON](http://uberon.org/) + [FMA](http://si.washington.edu/projects/fma)
-<div class="textae-editor" style="font-size:x-small" config="http://textae-configs.pubannotation.org/configs/COVID19-annotation.json"
-target="http://pubannotation.org/docs/sourcedb/CORD-19/sourceid/f820e5c342b0e3ce1af0905b69ebea927865a809/spans/2850-3461/annotations.json?projects=CORD-19-sample-MONDO,CORD-19-sample-HP,CORD-19-sample-UBERON,CORD-19-sample-FMA"></div>
+<div class="textae-editor" style="font-size:x-small" config="https://textae-configs.pubannotation.org/configs/COVID19-annotation.json"
+target="https://pubannotation.org/docs/sourcedb/CORD-19/sourceid/f820e5c342b0e3ce1af0905b69ebea927865a809/spans/2850-3461/annotations.json?projects=CORD-19-sample-MONDO,CORD-19-sample-HP,CORD-19-sample-UBERON,CORD-19-sample-FMA"></div>
 
 * Annotation using [MONDO](https://mondo.monarchinitiative.org/) + [HP](https://hpo.jax.org/) + [UBERON](http://uberon.org/) + [FMA](http://si.washington.edu/projects/fma) + [CHEBI](https://www.ebi.ac.uk/chebi/)
-<div class="textae-editor" style="font-size:x-small" config="http://textae-configs.pubannotation.org/configs/COVID19-annotation.json"
-target="http://pubannotation.org/docs/sourcedb/CORD-19/sourceid/f820e5c342b0e3ce1af0905b69ebea927865a809/spans/2850-3461/annotations.json?projects=CORD-19-sample-MONDO,CORD-19-sample-HP,CORD-19-sample-UBERON,CORD-19-sample-FMA,CORD-19-sample-CHEBI"></div>
+<div class="textae-editor" style="font-size:x-small" config="https://textae-configs.pubannotation.org/configs/COVID19-annotation.json"
+target="https://pubannotation.org/docs/sourcedb/CORD-19/sourceid/f820e5c342b0e3ce1af0905b69ebea927865a809/spans/2850-3461/annotations.json?projects=CORD-19-sample-MONDO,CORD-19-sample-HP,CORD-19-sample-UBERON,CORD-19-sample-FMA,CORD-19-sample-CHEBI"></div>
 
 * Annotation using [MONDO](https://mondo.monarchinitiative.org/) + [HP](https://hpo.jax.org/) + [UBERON](http://uberon.org/) + [FMA](http://si.washington.edu/projects/fma) + [CHEBI](https://www.ebi.ac.uk/chebi/) + [IDO](http://infectiousdiseaseontology.org/)
-<div class="textae-editor" style="font-size:x-small" config="http://textae-configs.pubannotation.org/configs/COVID19-annotation.json"
-target="http://pubannotation.org/docs/sourcedb/CORD-19/sourceid/f820e5c342b0e3ce1af0905b69ebea927865a809/spans/2850-3461/annotations.json?projects=CORD-19-sample-MONDO,CORD-19-sample-HP,CORD-19-sample-UBERON,CORD-19-sample-FMA,CORD-19-sample-CHEBI,CORD-19-sample-IDO"></div>
+<div class="textae-editor" style="font-size:x-small" config="https://textae-configs.pubannotation.org/configs/COVID19-annotation.json"
+target="https://pubannotation.org/docs/sourcedb/CORD-19/sourceid/f820e5c342b0e3ce1af0905b69ebea927865a809/spans/2850-3461/annotations.json?projects=CORD-19-sample-MONDO,CORD-19-sample-HP,CORD-19-sample-UBERON,CORD-19-sample-FMA,CORD-19-sample-CHEBI,CORD-19-sample-IDO"></div>
 
 
 ### Search over aggregated annotations
@@ -59,25 +60,35 @@ Once integrated into PubAnnotation, annotations such as those shown above can be
 
 More will be added.
 
-# Plan
-
-* The literature collections @ PubAnnotation will be kept updated as the collections themselves are growing (under development).
-* Anyone can contribute with their annotation datasets, of any kind of annotation to the literature collection.
-
 # Participants, contribution, prograss, so far
 
-Names | Annotations | Status
-------|--------------------- 
-Mariana Neves ([BfR](https://www.bfr.bund.de/))| Cell line annotation | Initial version added for LitCovid
-Nico Colic ([UZH](https://www.uzh.ch/)), Fabio Rinaldi ([IDSIA](http://www.idsia.ch/)) | OGER annotation | V.2 added for LitCovid
-Simon Suster | PICO categories |
+Names | Resources | Status
+------|-----------|-------- 
+Mariana Neves ([BfR](https://www.bfr.bund.de/))| [LitCovid-Cellosaurus](http://pubannotation.org/projects/LitCovid-Cellosaurus) - Cellines, [LitCovid-ArguminSci](http://pubannotation.org/projects/LitCovid-ArguminSci) - Discourse elements | Initial version added for LitCovid
+Nico Colic ([UZH](https://www.uzh.ch/)), Fabio Rinaldi ([IDSIA](http://www.idsia.ch/)) | [OGER-BB](http://pubannotation.org/projects/LitCovid-OGER-BB) - Biomedical term normalization | V.2 added for LitCovid
+Simon Suster ([UMelbourne](https://www.unimelb.edu.au/)) | [CORD-PICO](http://pubannotation.org/projects/CORD-PICO) - PICO categories |
 Zhiyong Lu ([NCBI](https://www.ncbi.nlm.nih.gov/)) | PubTator | Annotation ready for addition
 Mayla Boguslav, William Baumgartner, Larry Hunter ([UColorado](http://www.ucdenver.edu/)) | Epistemic statements | V.1 ready to be added for CORD-19
-Keith Suderman, Nancy Ide ([Vassar College](https://www.vassar.edu/)) | LAPPS Grid biomedical analysis software | Under development for performance improvement
-JanChristoph Klie, Richard Eckart de Castilho ([TUDarmsdadt](https://www.informatik.tu-darmstadt.de/ukp)) | INCEpTION annotation platform | Ready to be integrated
+Keith Suderman, Nancy Ide ([Vassar College](https://www.vassar.edu/)) | LAPPS Grid biomedical analysis software ([LappsGridBioNER](http://pubannotation.org/annotators/LappsGridBioNER), [LappsGridGeneTagger](http://pubannotation.org/annotators/LappsGridGeneTagger), [LappsGridStanfordPOSTagger](http://pubannotation.org/annotators/LappsGridStanfordPOSTagger), [LappsGridTimeML](http://pubannotation.org/annotators/LappsGridTimeML)) | Web service for automatic annotation is ready
+JanChristoph Klie, Richard Eckart de Castilho ([TUDarmsdadt](https://www.informatik.tu-darmstadt.de/ukp)) | INCEpTION annotation platform | To to be integrated
 Wang Yuxing, Jingbo Xia ([HZAU](http://www.hzau.edu.cn/)) | Gene variation and GOF/LOF annotation | annotation is under development
 
 <br/>
+
+
+# Plan
+
+* The literature collections (LivCovid and CORD-19) will be kept updating, as the collections themselves are growing.
+  * Some texts that are already stored in PubAnnotation may be changed.
+  * In the case, annotations made to the texts will be migrated to the updated texts.
+* As the literature collections will be growing, contribution with automatic annotation tools is a more sustainable way than contribution with pre-computed annotation datasets.
+  * With contribution with automatic annotation service, which conforms this API, automatic execution of the tools as the update of the literature collections will be set up.
+* Annotation datasets which are at 'Production' status will be automatically converted to RDF statements and fed into a SPARQL endpoint, so that they can be immediately explored through SPARQL-based search interfaces.
+
+## Mailing list
+
+covid19@pubannotation.org <br/>
+Anyone can subscribe to be informed, to discuss, to contribute, and more.
 
 ## Annotator
 
