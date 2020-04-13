@@ -64,12 +64,12 @@ More will be added.
 
 Names | Resources | Status
 ------|-----------|-------- 
-Mariana Neves ([BfR](https://www.bfr.bund.de/))| [LitCovid-Cellosaurus](http://pubannotation.org/projects/LitCovid-Cellosaurus) - Cellines, [LitCovid-ArguminSci](http://pubannotation.org/projects/LitCovid-ArguminSci) - Discourse elements | Initial version added for LitCovid
+Mariana Neves ([BfR](https://www.bfr.bund.de/))| [LitCovid-Cellosaurus](http://pubannotation.org/projects/LitCovid-Cellosaurus) - Cellines,<br/> [LitCovid-ArguminSci](http://pubannotation.org/projects/LitCovid-ArguminSci) - Discourse elements | V.1 added for LitCovid
 Nico Colic ([UZH](https://www.uzh.ch/)), Fabio Rinaldi ([IDSIA](http://www.idsia.ch/)) | [OGER-BB](http://pubannotation.org/projects/LitCovid-OGER-BB) - Biomedical term normalization | V.2 added for LitCovid
-Simon Suster ([UMelbourne](https://www.unimelb.edu.au/)) | [CORD-PICO](http://pubannotation.org/projects/CORD-PICO) - PICO categories |
-Zhiyong Lu ([NCBI](https://www.ncbi.nlm.nih.gov/)) | PubTator | Annotation ready for addition
-Mayla Boguslav, William Baumgartner, Larry Hunter ([UColorado](http://www.ucdenver.edu/)) | Epistemic statements | V.1 ready to be added for CORD-19
-Keith Suderman, Nancy Ide ([Vassar College](https://www.vassar.edu/)) | LAPPS Grid biomedical analysis software ([LappsGridBioNER](http://pubannotation.org/annotators/LappsGridBioNER), [LappsGridGeneTagger](http://pubannotation.org/annotators/LappsGridGeneTagger), [LappsGridStanfordPOSTagger](http://pubannotation.org/annotators/LappsGridStanfordPOSTagger), [LappsGridTimeML](http://pubannotation.org/annotators/LappsGridTimeML)) | Web service for automatic annotation is ready
+Simon Suster ([UMelbourne](https://www.unimelb.edu.au/)) | [CORD-PICO](http://pubannotation.org/projects/CORD-PICO) - PICO categories | V.1 added for CORD-19
+Mayla Boguslav, William Baumgartner, Larry Hunter ([UColorado](http://www.ucdenver.edu/)) | [Epistemic_Statements](http://pubannotation.org/projects/Epistemic_Statements) - Epistemic statements | V.1 added for CORD-19
+Zhiyong Lu ([NCBI](https://www.ncbi.nlm.nih.gov/)) | PubTator Central| Annotation service ready to be connected from PubAnnotation
+Keith Suderman, Nancy Ide ([Vassar College](https://www.vassar.edu/)) | LAPPS Grid biomedical analysis software ([LappsGridBioNER](http://pubannotation.org/annotators/LappsGridBioNER), [LappsGridGeneTagger](http://pubannotation.org/annotators/LappsGridGeneTagger), [LappsGridStanfordPOSTagger](http://pubannotation.org/annotators/LappsGridStanfordPOSTagger), [LappsGridTimeML](http://pubannotation.org/annotators/LappsGridTimeML)) | Annotation service ready to be connected from PubAnnotation
 JanChristoph Klie, Richard Eckart de Castilho ([TUDarmsdadt](https://www.informatik.tu-darmstadt.de/ukp)) | INCEpTION annotation platform | To to be integrated
 Wang Yuxing, Jingbo Xia ([HZAU](http://www.hzau.edu.cn/)) | Gene variation and GOF/LOF annotation | annotation is under development
 
@@ -92,7 +92,7 @@ Anyone can subscribe to be informed, to discuss, to contribute, and more.
 
 ## Annotator
 
-Aiko Hiraki ([DBCLS](http://dbcls.rois.ac.jp/))
+Aiko T. Hiraki ([DBCLS](http://dbcls.rois.ac.jp/))
 
 
 ## Coordinator
