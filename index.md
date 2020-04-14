@@ -20,8 +20,7 @@ PubAnnotation is an open repository of annotations of biomedical literature whos
 
 ### Individual vs. Aggregated annotations
 
-The following example demonstrates the benefit of aggregating various annotations over Covid-19 literature:<br/>
-<span style="color:#aa0000; font-style:italic; font-size:medium">(If you cannot see the examples below, please re-open the page using HTTP, not HTTPS.)</span>
+The following example demonstrates the benefit of aggregating various annotations over Covid-19 literature:
 
 * Annotation using [MONDO](https://mondo.monarchinitiative.org/)
 <div class="textae-editor" style="font-size:x-small" config="https://textae-configs.pubannotation.org/configs/COVID19-annotation.json"
@@ -64,14 +63,12 @@ More will be added.
 
 Names | Resources | Status
 ------|-----------|-------- 
-Mariana Neves ([BfR](https://www.bfr.bund.de/))| [LitCovid-Cellosaurus](http://pubannotation.org/projects/LitCovid-Cellosaurus) - Cellines,<br/> [LitCovid-ArguminSci](http://pubannotation.org/projects/LitCovid-ArguminSci) - Discourse elements | V.1 added for LitCovid
+Mariana Neves ([BfR](https://www.bfr.bund.de/))| [LitCovid-ArguminSci](http://pubannotation.org/projects/LitCovid-ArguminSci) - Discourse elements | V.1 added for LitCovid
 Nico Colic ([UZH](https://www.uzh.ch/)), Fabio Rinaldi ([IDSIA](http://www.idsia.ch/)) | [OGER-BB](http://pubannotation.org/projects/LitCovid-OGER-BB) - Biomedical term normalization | V.2 added for LitCovid
 Simon Suster ([UMelbourne](https://www.unimelb.edu.au/)) | [CORD-PICO](http://pubannotation.org/projects/CORD-PICO) - PICO categories | V.1 added for CORD-19
 Mayla Boguslav, William Baumgartner, Larry Hunter ([UColorado](http://www.ucdenver.edu/)) | [Epistemic_Statements](http://pubannotation.org/projects/Epistemic_Statements) - Epistemic statements | V.1 added for CORD-19
-Zhiyong Lu ([NCBI](https://www.ncbi.nlm.nih.gov/)) | PubTator Central| Annotation service ready to be connected from PubAnnotation
-Keith Suderman, Nancy Ide ([Vassar College](https://www.vassar.edu/)) | LAPPS Grid biomedical analysis software ([LappsGridBioNER](http://pubannotation.org/annotators/LappsGridBioNER), [LappsGridGeneTagger](http://pubannotation.org/annotators/LappsGridGeneTagger), [LappsGridStanfordPOSTagger](http://pubannotation.org/annotators/LappsGridStanfordPOSTagger), [LappsGridTimeML](http://pubannotation.org/annotators/LappsGridTimeML)) | Annotation service ready to be connected from PubAnnotation
-JanChristoph Klie, Richard Eckart de Castilho ([TUDarmsdadt](https://www.informatik.tu-darmstadt.de/ukp)) | INCEpTION annotation platform | To to be integrated
-Wang Yuxing, Jingbo Xia ([HZAU](http://www.hzau.edu.cn/)) | Gene variation and GOF/LOF annotation | annotation is under development
+Zhiyong Lu ([NCBI](https://www.ncbi.nlm.nih.gov/)) | PubTator Central| Annotation service ready to cooperate with PubAnnotation
+Keith Suderman, Nancy Ide ([Vassar College](https://www.vassar.edu/)) | LAPPS Grid biomedical analysis software ([LappsGridBioNER](http://pubannotation.org/annotators/LappsGridBioNER), [LappsGridGeneTagger](http://pubannotation.org/annotators/LappsGridGeneTagger), [LappsGridStanfordPOSTagger](http://pubannotation.org/annotators/LappsGridStanfordPOSTagger), [LappsGridTimeML](http://pubannotation.org/annotators/LappsGridTimeML)) | Annotation service ready to cooperate with PubAnnotation
 
 <br/>
 
