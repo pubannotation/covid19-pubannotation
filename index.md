@@ -32,15 +32,15 @@ target="https://pubannotation.org/docs/sourcedb/CORD-19/sourceid/f820e5c342b0e3c
 
 * Annotation using [MONDO](https://mondo.monarchinitiative.org/) + [HP](https://hpo.jax.org/) + [UBERON](http://uberon.org/) + [FMA](http://si.washington.edu/projects/fma)
 <div class="textae-editor" style="font-size:x-small" config="https://textae-configs.pubannotation.org/configs/COVID19-annotation.json"
-target="https://pubannotation.org/docs/sourcedb/CORD-19/sourceid/f820e5c342b0e3ce1af0905b69ebea927865a809/spans/2850-3461/annotations.json?projects=CORD-19-sample-MONDO,CORD-19-sample-HP,CORD-19-sample-UBERON,CORD-19-sample-FMA"></div>
+target="https://pubannotation.org/docs/sourcedb/CORD-19/sourceid/f820e5c342b0e3ce1af0905b69ebea927865a809/spans/2850-3461/annotations.json?projects=CORD-19-sample-MONDO,CORD-19-sample-HP,CORD-19-sample-FMA-UBERON"></div>
 
 * Annotation using [MONDO](https://mondo.monarchinitiative.org/) + [HP](https://hpo.jax.org/) + [UBERON](http://uberon.org/) + [FMA](http://si.washington.edu/projects/fma) + [CHEBI](https://www.ebi.ac.uk/chebi/)
 <div class="textae-editor" style="font-size:x-small" config="https://textae-configs.pubannotation.org/configs/COVID19-annotation.json"
-target="https://pubannotation.org/docs/sourcedb/CORD-19/sourceid/f820e5c342b0e3ce1af0905b69ebea927865a809/spans/2850-3461/annotations.json?projects=CORD-19-sample-MONDO,CORD-19-sample-HP,CORD-19-sample-UBERON,CORD-19-sample-FMA,CORD-19-sample-CHEBI"></div>
+target="https://pubannotation.org/docs/sourcedb/CORD-19/sourceid/f820e5c342b0e3ce1af0905b69ebea927865a809/spans/2850-3461/annotations.json?projects=CORD-19-sample-MONDO,CORD-19-sample-HP,CORD-19-sample-FMA-UBERON,CORD-19-sample-CHEBI"></div>
 
 * Annotation using [MONDO](https://mondo.monarchinitiative.org/) + [HP](https://hpo.jax.org/) + [UBERON](http://uberon.org/) + [FMA](http://si.washington.edu/projects/fma) + [CHEBI](https://www.ebi.ac.uk/chebi/) + [IDO](http://infectiousdiseaseontology.org/)
 <div class="textae-editor" style="font-size:x-small" config="https://textae-configs.pubannotation.org/configs/COVID19-annotation.json"
-target="https://pubannotation.org/docs/sourcedb/CORD-19/sourceid/f820e5c342b0e3ce1af0905b69ebea927865a809/spans/2850-3461/annotations.json?projects=CORD-19-sample-MONDO,CORD-19-sample-HP,CORD-19-sample-UBERON,CORD-19-sample-FMA,CORD-19-sample-CHEBI,CORD-19-sample-IDO"></div>
+target="https://pubannotation.org/docs/sourcedb/CORD-19/sourceid/f820e5c342b0e3ce1af0905b69ebea927865a809/spans/2850-3461/annotations.json?projects=CORD-19-sample-MONDO,CORD-19-sample-HP,CORD-19-sample-FMA-UBERON,CORD-19-sample-CHEBI,CORD-19-sample-IDO"></div>
 
 
 ### Search over aggregated annotations
